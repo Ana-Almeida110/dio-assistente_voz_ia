@@ -62,9 +62,11 @@ O assistente é capaz de gravar áudio, transcrever comandos e responder com áu
    
 ---
 
-## ▶ Como Usar no Google Colab
-1. Abra o Notebook
-2. Execute as células em ordem:
+## ▶ Como Usar 
+1. Executar no Google Colab
+(https://colab.research.google.com/drive/1aoxIkeN_v3TN_NXXrWeNhZ2cT1DmDDMJ?usp=sharing)
+
+3. Execute as células em ordem:
    - Definição do idioma: language = 'pt'
    - Gravação de áudio: execute a função "gravar_audio()" > permita acesso ao microfone
    - Instalação do Whisper e FFmpeg
